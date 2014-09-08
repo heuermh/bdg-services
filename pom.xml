@@ -43,21 +43,21 @@
     <licenses>
         <license>
             <name>Apache License</name>
-            <url>https://raw.github.com/bigdatagenomics/RNAdam/master/LICENSE.txt</url>
+            <url>https://raw.github.com/bigdatagenomics/bdg-services/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:bigdatagenomics/RNAdam.git</connection>
-        <developerConnection>scm:git:git@github.com:bigdatagenomics/RNAdam.git</developerConnection>
-        <url>scm:git:git@github.com:bigdatagenomics/RNAdam.git</url>
+        <connection>scm:git:git@github.com:bigdatagenomics/bdg-services.git</connection>
+        <developerConnection>scm:git:git@github.com:bigdatagenomics/bdg-services.git</developerConnection>
+        <url>scm:git:git@github.com:bigdatagenomics/bdg-services.git</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/bigdatagenomics/RNAdam/issues</url>
+        <url>https://github.com/bigdatagenomics/bdg-services/issues</url>
     </issueManagement>
 
     <build>
